@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/smysakowski" target="blank"><img src="https://img.shields.io/twitter/follow/smysakowski?logo=twitter&style=for-the-badge" alt="smysakowski" /></a> </p>
 
-- 🔭 I’m currently working at [Lingaro](https://lingarogroup.com/)
+- 🔭 I’m currently working at [Sii Poland](https://sii.pl/)
 
 - 🌱 I’m currently teaching at **[Helion(Publisher)](https://helion.pl/)**
 
