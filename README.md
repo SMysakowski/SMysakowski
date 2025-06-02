@@ -37,6 +37,8 @@ Recent speaking engagements include:
 
 ### 👨‍🏫 Academic Involvement
 
+- Front-end Trainer at InfoShare Academy
+- Lecturer at Andrzej Frycz Modrzewski Krakow University
 - Lecturer at Akademia Leona Koźmińskiego
 - Lecturer at TechniSchools
 - Lecturer at WSB (Wyższa Szkoła Bankowa)
