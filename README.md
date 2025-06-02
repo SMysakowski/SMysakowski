@@ -92,10 +92,6 @@ Recent speaking engagements include:
 - Technical Strategy
 - Agile Methodologies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smysakowski&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ---
 
 <div align="center">
