@@ -1,28 +1,83 @@
-<h1 align="center">Hi 👋, I'm Sebastian Mysakowski</h1>
-<h3 align="center">I’m a Poland-based Frontend Engineer. Currently I’m working on projects for clients all over the world.</h3>
+# Sebastian Mysakowski
 
-<p align="left"> <a href="https://twitter.com/smysakowski" target="blank"><img src="https://img.shields.io/twitter/follow/smysakowski?logo=twitter&style=for-the-badge" alt="smysakowski" /></a> </p>
+<div align="center">
+  <img src="https://github.com/smysakowski/smysakowski/blob/main/profile.jpg" alt="Sebastian Mysakowski" width="200" style="border-radius: 50%;"/>
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Development+Manager;FinTech+Specialist;React+%26+React+Native+Expert;Tech+Lecturer;Conference+Speaker" alt="Typing SVG" />
+  </div>
+</div>
 
-- 🔭 I’m currently working at [Sii Poland](https://sii.pl/)
+## 👨‍💻 Software Development Manager at Northmill Bank AB
 
-- 🌱 I’m currently teaching at **[Helion(Publisher)](https://helion.pl/)**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smysakowski&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
-- 📝 I write articles on [https://medium.com/@sebastian.mysakowski](https://medium.com/@sebastian.mysakowski)
+Experienced software development leader specializing in FinTech solutions, with a strong focus on React and React Native development.
 
-- 💬 Ask me about **JavaScript, React, React Native**
+### 🎤 Speaking Experience
 
-- 📫 How to reach me **contact@smysakowski.com**
+Regular speaker at tech conferences and events, sharing knowledge about:
+- React & React Native development
+- Frontend architecture
+- Mobile app development
+- Career development in IT
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/smysakowski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="smysakowski" height="30" width="40" /></a>
-<a href="https://twitter.com/smysakowski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="smysakowski" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smysakowski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smysakowski" height="30" width="40" /></a>
-<a href="https://fb.com/sebastianmysakowski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sebastianmysakowski" height="30" width="40" /></a>
-<a href="https://medium.com/@sebastian.mysakowski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sebastian.mysakowski" height="30" width="40" /></a>
-</p>
+Recent speaking engagements include:
+- React Global Online Summit 2023
+- Warsaw IT Days 2023
+- 4developers
+- Check IT Lublin 2023
+- And many more...
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+[View my full speaking profile](https://sessionize.com/smysakowski/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smysakowski&show_icons=true&locale=en&layout=compact" alt="smysakowski" /></p>
+### 🚀 Professional Experience
+
+- **Current Role:** Software Development Manager at Northmill Bank AB
+- **Specialization:** FinTech, React, React Native
+- **Industry Focus:** Banking and Financial Technology
+
+### 👨‍🏫 Academic Involvement
+
+- Lecturer at Akademia Leona Koźmińskiego
+- Lecturer at TechniSchools
+- Lecturer at WSB (Wyższa Szkoła Bankowa)
+
+### 💻 Technical Expertise
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,git,aws,docker&theme=dark" />
+</div>
+
+- **Frontend Development:**
+  - React
+  - React Native
+  - Modern JavaScript/TypeScript
+  - UI/UX Implementation
+
+- **FinTech Specialization:**
+  - Banking Solutions
+  - Financial Applications
+  - Secure Payment Systems
+  - Digital Banking Platforms
+
+### 🌟 Leadership & Management
+
+- Team Leadership
+- Project Management
+- Technical Strategy
+- Agile Methodologies
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smysakowski&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=smysakowski&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/smysakowski/) to learn more about my professional journey and current projects.*
