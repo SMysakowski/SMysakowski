@@ -52,7 +52,7 @@ Recent speaking engagements include:
 ### 💻 Technical Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,nestjs,graphql,git,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,nestjs,graphql,git,aws,docker,tailwind,astro,remix,express,mongodb,prisma&theme=dark" />
 </div>
 
 - **Frontend Development:**
@@ -60,12 +60,24 @@ Recent speaking engagements include:
   - React Native
   - Modern JavaScript/TypeScript
   - UI/UX Implementation
+  - Tailwind CSS
+  - NativeWind
+  - Astro.js
+  - Remix.js
+
+- **Mobile Development:**
+  - Expo
+  - React Native
+  - Cross-platform Development
 
 - **Backend Development:**
   - Node.js
   - NestJS
+  - Express.js
   - GraphQL
   - REST APIs
+  - MongoDB
+  - Prisma ORM
 
 - **FinTech Specialization:**
   - Banking Solutions
