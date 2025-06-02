@@ -1,8 +1,6 @@
 # Sebastian Mysakowski
 
 <div align="center">
-  <img src="https://github.com/smysakowski/smysakowski/blob/main/profile.jpg" alt="Sebastian Mysakowski" width="200" style="border-radius: 50%;"/>
-  
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Development+Manager;FinTech+Specialist;React+%26+React+Native+Expert;Tech+Lecturer;Conference+Speaker" alt="Typing SVG" />
   </div>
@@ -48,7 +46,7 @@ Recent speaking engagements include:
 ### 💻 Technical Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,git,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,nestjs,graphql,git,aws,docker&theme=dark" />
 </div>
 
 - **Frontend Development:**
@@ -56,6 +54,12 @@ Recent speaking engagements include:
   - React Native
   - Modern JavaScript/TypeScript
   - UI/UX Implementation
+
+- **Backend Development:**
+  - Node.js
+  - NestJS
+  - GraphQL
+  - REST APIs
 
 - **FinTech Specialization:**
   - Banking Solutions
