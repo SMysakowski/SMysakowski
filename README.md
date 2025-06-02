@@ -1,6 +1,12 @@
+# Sebastian Mysakowski
+
 <div align="center">
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Development+Manager;FinTech+Specialist;React+%26+React+Native+Expert;Tech+Lecturer;Conference+Speaker" alt="Typing SVG" />
+  </div>
+  
+  <div align="center">
+    <a href="https://smysakowski.com" target="_blank">🌐 Visit my website</a>
   </div>
 </div>
 
